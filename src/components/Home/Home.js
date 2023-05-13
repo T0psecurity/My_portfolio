@@ -23,9 +23,9 @@ const Home = () => {
   return (
     <IconContext.Provider value={{ size: "1rem" }}>
       <StyledHome id="home">
-        <Name>Patrick Mugambi</Name>
-        <Title>Full stack developer</Title>
-        <p>
+        <Name>Cobin Mao</Name>
+        <Title>Blockchain developer</Title>
+        {/* <p>
           I <span className="change-text"></span>{" "}
           <span className="responsive">r</span>
           <span className="responsive">e</span>
@@ -37,7 +37,7 @@ const Home = () => {
           <span className="responsive">i</span>
           <span className="responsive">v</span>
           <span className="responsive">e</span> websites.
-        </p>
+        </p> */}
         <StyledButtonsContainer>
           <StyledButton
             icon={projectIcon}
@@ -74,14 +74,14 @@ const Home = () => {
         </Greeting>
         <Socials>
           <Social
-            href="mailto:phillipscheryl@gmail.com"
+            href="mailto:phillipscheryl615@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaEnvelope />
           </Social>
           <Social
-            href="https://github.com/Achilles1986"
+            href="https://github.com/phillipscheryl"
             target="_blank"
             rel="noopener noreferrer"
           >

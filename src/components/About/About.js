@@ -24,25 +24,29 @@ const About = () => {
       </SectionHeading>
       <AboutContent>
         <AboutImageContainer>
-          
+
           <AboutImage src={myImage} />
         </AboutImageContainer>
         <AboutDetailsContainer>
           <StyledParagraph>
-            Full-stack developer with 6+ years of experience and a proven track record of success in achieving extraordinary results.
+            Blockchain developer with 4 years of experience in developing and implementing blockchain solutions for various industries.
+          
+            Proficient in DeFi, Ethereum, and Hyperledger Fabric.
+          
+            Successfully led the development of a blockchain-based supply chain management system that improved transparency and traceability.
+          
+            Skilled in smart contract development, decentralized application (dApp) development, and blockchain architecture design.
+          
+            Strong analytical and problem-solving skills, with a track record of delivering high-quality solutions on time and within budget.
+
+            Passionate about exploring the potential of blockchain technology to transform industries and create new opportunities.
           </StyledParagraph>
-          <StyledParagraph>
-            With a strong attention to detail and accuracy and the important ability to function well in a team setting.
-          </StyledParagraph>
-          <StyledParagraph>
-            Cheryl is looking for a Full-Stack Developer job.
-          </StyledParagraph>
-      
-          <Resume style={{textAlign: 'center', width: '100%'}}>
+
+          <Resume style={{ textAlign: 'center', width: '100%' }}>
             <ResumeLink
               href={resume}
               icon={downloadIcon}
-              download="resume-cheryl-phillips"
+              download="resume-cobin-mao"
             >
               Download Resume
             </ResumeLink>

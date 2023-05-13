@@ -60,7 +60,7 @@ const MobileMenu = ({ isOpen, toggle }) => {
           
         </MobileSocial>
         <MobileSocial
-          href="https://github.com/Achilles1986"
+          href="https://github.com/phillipscheryl"
           target="_blank"
           rel="noopener noreferrer"
         >

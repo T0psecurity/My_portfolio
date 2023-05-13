@@ -32,10 +32,10 @@ const Footer = () => {
 
       <FooterBigLinkContainer>
         <FooterBigLink
-          href="mailto:jerichobantiquete@gmail.com"
+          href="mailto:phillipscheryl615@gmail.com"
           data-hover="Let's talk!"
         >
-   
+
         </FooterBigLink>
       </FooterBigLinkContainer>
       <FooterContacts>
@@ -43,19 +43,19 @@ const Footer = () => {
           <ContactHeader></ContactHeader>{" "}
           <FooterSocials>
             <ContactLink
-              href="https://github.com/Achilles1986"
+              href="https://github.com/phillipscheryl"
               target="_blank"
               rel="noopener noreferrer"
             >
               GitHub
             </ContactLink>
-            
+
           </FooterSocials>
         </FooterContact>
         <FooterContact>
           <ContactHeader></ContactHeader>
           <ContactLink href="">
-          phillipscheryl615@gmail.com
+            phillipscheryl615@gmail.com
           </ContactLink>
         </FooterContact>
       </FooterContacts>
@@ -69,11 +69,11 @@ const Footer = () => {
         <small>
           &copy; Copyright {year},{" "}
           <Small
-            href="https://github.com/Achilles1986"
+            href="https://github.com/phillipscheryl"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Cheryl Phillips
+            Cobin Mao
           </Small>
         </small>
       </Copyright>
