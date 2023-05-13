@@ -17,7 +17,6 @@ import bootstrap from "../../assets/technologies/bootstrap.svg";
 import npm from "../../assets/technologies/npm.svg";
 import django from "../../assets/technologies/django.webp";
 import git from "../../assets/technologies/git.svg";
-import golang from "../../assets/technologies/golang.png";
 import vue from "../../assets/technologies/vuejs.webp";
 import figma from "../../assets/technologies/figma.svg";
 
@@ -117,12 +116,6 @@ export const iconsData = [
     icon: django,
     name: "Django",
   },
-  // {
-  //   id: 19,
-  //   icon: golang,
-  //   name: "Golang",
-  // },
-
   {
     id: 20,
     icon: vue,
